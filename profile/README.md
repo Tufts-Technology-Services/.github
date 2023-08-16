@@ -15,8 +15,10 @@ The Tufts Technology Services (GitHub Organization) is connected to the Tufts Un
 **Group Membership**
 
 Membership to this organization is managed by Azure AD using automated provisioning and de-provisioning (SCIM). 
+
 If you are a new member then you should automatically receive an email with instructions from GitHub on how to join.
-Please email it@tufts.edu if you are not able to access this resource and are part of the Tufts Technology Services group
+
+Please email it@tufts.edu if you are not able to access this resource and are part of the Tufts Technology Services group.
 <!--
 
 **Here are some ideas to get you started:**
