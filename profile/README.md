@@ -1,5 +1,5 @@
 ![Tufts Logo](https://github.com/TTS-Test/.github/blob/main/Tufts_univ_blue_small.png)
-## Welcome to the Tufts Technology Services (GitHub Organization)
+### Welcome to the Tufts Technology Services (GitHub Organization)
 
 This GitHub organization is available all members of Tufts Technology Services (TTS) group in Tufts University.
 
