@@ -6,10 +6,10 @@ This GitHub organization is available all members of Tufts Technology Services (
 
 Please login here: https://github.com/orgs/Tufts-Technoloy-Services/sso
 
-Single Sign-on
+**Single Sign-on**
 Tufts Technology Service GitHub Organization is connected to the Tufts University Active Directory via Microsoft Azure Active Directory (Azure AD) for single-sign-on to enforce the use of Tufts credentials to access resources in the organizations.
 
-Membership
+**Group Membership**
 Membership to this organization is managed by Azure AD using automated provisioning and de-provisioning (SCIM). 
 Please email it@tufts.edu if you are not able to access this resource and are part of the Tufts Technology Services group
 <!--
