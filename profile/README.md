@@ -4,9 +4,7 @@
 
 This GitHub organization is available all members of Tufts Technology Services (TTS) group in Tufts University.
 
-**Login here**
-
-https://github.com/orgs/Tufts-Technoloy-Services/sso
+**Login here:** https://github.com/orgs/Tufts-Technoloy-Services/sso
 
 **Single Sign-On (SSO)**
 
