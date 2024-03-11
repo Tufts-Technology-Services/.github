@@ -1,9 +1,9 @@
 ![Tufts Logo](https://github.com/TTS-Test/.github/blob/main/Tufts_univ_blue_small.png)
-### Welcome to the Tufts Technology Services (GitHub Organization)
+# Welcome to the Tufts Technology Services (GitHub Organization)
+
+**You are NOT logged in.** [Click here to login.](https://github.com/Tufts-Technology-Services/sso)
 
 This GitHub organization is available all members of Tufts Technology Services (TTS) group in Tufts University.
-
-**Login here:** https://github.com/orgs/Tufts-Technology-Services/sso
 
 **Single Sign-On (SSO)**
 The Tufts Technology Services (GitHub Organization) is connected to the Tufts University Active Directory environment via Microsoft Azure Active Directory (Azure AD) for single-sign-on to enforce the use of Tufts credentials to access resources in this organization.  
