@@ -1,5 +1,5 @@
 ![Tufts Logo](https://github.com/TTS-Test/.github/blob/main/Tufts_univ_blue_small.png)
-# Welcome to the Tufts Technology Services (GitHub Organization)
+# Tufts Technology Services (GitHub Organization)
 
 **You are NOT logged in.** [Click here to login.](https://github.com/Tufts-Technology-Services/sso)
 
