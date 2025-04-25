@@ -1,7 +1,7 @@
 ![Tufts Logo](https://github.com/TTS-Test/.github/blob/main/Tufts_univ_blue_small.png)
 # Tufts Technology Services (GitHub Organization)
 
-**You are NOT logged in.** Be sure to add your @tufts.edu address to your github account by going to your profile > Settings > Emails. If you still cannot access this organization, contact escp-ticket -at- tufts.edu.
+**You are NOT logged in.** Be sure to add your @tufts.edu address to your github account by first ensuring you're signed into GitHub, and then going to your profile > Settings > Emails. If you still cannot access this organization, contact escp-ticket -at- tufts.edu.
 
 This GitHub organization is available all members of Tufts Technology Services (TTS) group in Tufts University.
 
