@@ -6,6 +6,7 @@
 This GitHub organization is available all members of Tufts Technology Services (TTS) group in Tufts University.
 
 **Single Sign-On (SSO) and Group Membership**
+
 Please see:
 * [Adding Users to GitHub Organizations](https://tuftswork.atlassian.net/wiki/spaces/ESPTS/pages/739606533/Adding+Users+to+GitHub+Organizations)
 * [Managing GitHub Team Membership](https://tuftswork.atlassian.net/wiki/spaces/ESPTS/pages/1630437379/Managing+GitHub+Team+Membership)
